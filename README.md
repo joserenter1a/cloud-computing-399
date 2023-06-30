@@ -1,2 +1,2 @@
  ## Cloud Computing 399
-Work done for CS399 at The University of Oregon
+Work done for CS399 at The University of Oregon during Summer 2023
